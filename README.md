@@ -1,24 +1,27 @@
-# diccionario-microeconomia
+# Proyecto final de Micro Economía
 
-## Project setup
+El proyecto consta de un diccionario de palabras relacionadas con lo que vimos durante el curso.
+
+## Integrantes del grupo
+
+-   🐍 Luis Eduardo Jeréz Girón | 1990-19-6340
+-   🦢 Hugo Ernesto Barrios Rosales | 1990-19-6344
+-   🐱 Fernan Emilio Rixquiacche Perez | 1990-19-5454
+
+## Instalar el proyecto
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar para desarrollo
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar para producción
+
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
